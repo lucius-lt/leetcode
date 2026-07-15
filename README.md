@@ -9,26 +9,6 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 - 🎯 Goal: Strengthen problem-solving skills and prepare for software engineering interviews.
 - 🔄 Repository is updated regularly with new submissions.
 
-## 📂 Repository Structure
-
-```
-LeetCode-Submissions/
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Binary Search/
-├── Graph/
-├── Dynamic Programming/
-├── Greedy/
-├── Backtracking/
-├── Math/
-└── ...
-```
-
-> *The folder structure may evolve as more problems are solved.*
 
 ## 📝 Solution Format
 
