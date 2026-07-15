@@ -1,0 +1,15 @@
+// Last updated: 7/16/2026, 1:12:31 AM
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        if(nums==null||nums.length==0) return 0;
+       int k=0;
+       for(int i =1;i<nums.length;i++){
+        if(nums[i]!=nums[k]){
+             k++;
+            nums[k]=nums[i];
+           
+             }
+       }
+       return k+1;
+    }
+}
